@@ -30,7 +30,4 @@ The dataset used is `advertising.csv`, which contains user behavior and demograp
 - Seaborn
 - Scikit-learn
 
----
 
-Author: Maha Aljoaib
-Course: Machine Learning
